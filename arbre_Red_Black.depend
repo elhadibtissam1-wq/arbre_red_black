@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793790232 source:c:\users\pc\desktop\bouziri\arbre_red_black\main.cpp
+	<iostream>
+	<chrono>
+	<vector>
+	<algorithm>
+	<random>
+
